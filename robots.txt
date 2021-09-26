@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zhoumingzuo.github.io/sitemap.xml
